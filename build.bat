@@ -1,7 +1,7 @@
 @echo off
 setlocal
 :: Remember to adjust the path of Python 
-set "PY=C:/Users/user/Downloads/Work/md5tools/.venv/Scripts/python.exe"
+set "PY=C:/Users/user/Downloads/Work/MD5_Tools/.venv/Scripts/python.exe"
 
 REM 清快取
 rmdir /s /q build dist 2>nul
